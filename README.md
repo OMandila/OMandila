@@ -31,13 +31,13 @@ Passionate about Data, Analytics, and Agile Project Management, I leverage these
 
 ## Professional Experience
 ### Program Manager (Data & Innovations)
-**Forest Stewardship Council (FSC) International, Bonn, Germany - Bonn, Germany**
+**Forest Stewardship Council (FSC) International, Bonn, Germany**
 *April 2022 - Present*
 
 In this role, I ensure the design, development, communication, implementation, monitoring, and adaptive management of strategic data and technology innovations, including data and analytics for FSC evaluation and learning. During my tenure, I recruited talented and highly motivated individuals to join the FSC's data and innovations team. I ensured proactive resolution of demands for data and analytics through the design and development of data solutions (reports and dashboards). Using design thinking, we built customer-centric data products, provided training and capacity building to users through focus groups, workshops, and Info Sessions, and tracked user engagement and user sentiments with our data products.
 
 ### Management Consultant to Senior Management Consultant to Manager
-**PricewaterhouseCoopers (PwC), Nairobi & Amsterdam - Nairobi, Kenya; Amsterdam, Netherlands**
+**PricewaterhouseCoopers (PwC), Nairobi, Kenya; Amsterdam, Netherlands**
 *September 2015 - March 2022*
 
 I worked in the international development assistance (IDA) department, where I designed and delivered projects involving strategy development and implementation, market research, training, and capacity building in developing and post-conflict countries. I successfully did project management, Monitoring & Evaluation, and change management of transformational initiatives for various clients. I contributed to several international development projects commissioned by the World Bank, USAID, UNICEF, KfW, GIZ, and DANIDA in different locations such as Nairobi, Addis Ababa, Kampala, Somaliland, and Khartoum. I also demonstrated leadership skills in business development and business management initiatives.
@@ -45,7 +45,11 @@ I worked in the international development assistance (IDA) department, where I d
 ## Education
 - Diploma in Full Stack Software Development (Credit Rated by University of West of Scotland), 2023 - Present
   - Code Institute, Dublin, Ireland
-  - Technologies: HTML5🌐 CSS3🎨 JavaScript🚀 Python🐍;  Databases: MongoDB📊 MySQL🐬 Postgres🐘; Frameworks: Flask🌐 Django🎧 jQuery🌆Bootstrap🅱️;  Version Control: Git📜 GitHub🚀 Heroku☁️;  Specialization: Predictive Analytics📈
+  - Technologies: HTML5🌐 CSS3🎨 JavaScript🚀 Python🐍;
+  - Databases: MongoDB📊 MySQL🐬 Postgres🐘;
+  - Frameworks: Flask🌐 Django🎧 jQuery🌆Bootstrap🅱️;
+  - Version Control: Git📜 GitHub🚀 Heroku☁️;
+  - Specialization: Predictive Analytics📈
 - Business Analyst Nanodegree, 2021
   - Udacity, US - Remote
   - This was a project-based training on foundational data skills that apply across functions and industries, i.e. building data models with Microsoft Excel, SQL, and creating informative data visualizations using Tableau and Microsoft Power BI.

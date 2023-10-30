@@ -15,8 +15,8 @@ PMI Project Management Professional (PMP)📊 PRINCE2 Practitioner📋
 Public Speaking, Workshop Facilitation, Training Delivery🎙️ Project Monitoring and Evaluation (M&E)📊
 Microsoft Office Suite💻
 
-## Profile
-Passionate about Data, Analytics, and Agile Project Management, I leverage these domains to craft innovative tech solutions that meet environmental, social, and economic needs. As the Program Manager for Data & Innovations and a former management consultant at PwC, I've spearheaded technology and data initiatives both in Africa and Europe, collaborating with businesses, governments, international NGOs, and development partners. Notably, I've designed data platforms to bolster health service delivery in rural Kenya and facilitate civil service reforms in pre-conflict Sudan. These ventures have sharpened my expertise in Program and Project Management, Design Thinking, Data Analytics, Data Product Management, and Business Analytics. With an Industrial Engineering background, I hold certifications as a PMI Project Management Professional (PMP) and a Certified Data Leader. I wear multiple hats: entrepreneur, project manager, and technology thought leader.
+## About me
+I am driven by an unquenchable passion for using data and technology to drive positive transformations. My journey as a Problem Solver, Strategic Thinker, and Champion for Data and Agile is guided by a deep-seated belief in the power of innovation to address the environmental, social, and economic challenges of our time. As a Program Manager for Data & Innovations and a former management consultant at PwC, I've had the privilege to work on transformative projects that harness the potential of data. Whether it's designing data platforms to enhance healthcare access in rural Kenya or facilitate civil service reforms in pre-conflict Sudan, my work is fueled by a relentless commitment to making a meaningful impact. My multifaceted background in Industrial Engineering, Accounting, Business Management, coupled with certifications as a PMI Project Management Professional (PMP) and Data Management, equips me to wear multiple hats as an entrepreneur, project manager, and technology thought leader.
 
 ## Professional Experience
 ### Program Manager (Data & Innovations)
@@ -25,7 +25,7 @@ Passionate about Data, Analytics, and Agile Project Management, I leverage these
 
 In this role, I ensure the design, development, communication, implementation, monitoring, and adaptive management of strategic data and technology innovations, including data and analytics for FSC evaluation and learning. During my tenure, I recruited talented and highly motivated individuals to join the FSC's data and innovations team. I ensured proactive resolution of demands for data and analytics through the design and development of data solutions (reports and dashboards). Using design thinking, we built customer-centric data products, provided training and capacity building to users through focus groups, workshops, and Info Sessions, and tracked user engagement and user sentiments with our data products.
 
-### Management Consultant to Senior Management Consultant to Manager
+### Senior Management Consultant (Portfolio & Program Management)
 **PricewaterhouseCoopers (PwC), Nairobi, Kenya; Amsterdam, Netherlands**
 *September 2015 - March 2022*
 
@@ -58,6 +58,13 @@ I worked in the international development assistance (IDA) department, where I d
 ## GitHub & LinkedIn
 - [GitHub Profile](https://github.com/OMandila) 🚀
 - [LinkedIn Profile](https://www.linkedin.com/in/oliver-mandila/) 🌐
+
+## Volunteering
+Lakisama Foundation (Kenya/the Netherlands), 2019-present, Volunteer/Mentor
+- Lakisama Foundation seeks to reduce poverty by providing children and young adults in lower income ecomomies with access to education and mentorship. Lakisama currently focusses on orphaned children in Nairobi, working with local volunteers.
+
+Plan International (Germany), 2022-present, Active Supporter
+- Plan International is an independent development and humanitarian organisation that advances children’s rights and equality for girls. Plan strives for a just world, working together with children, young people, supporters and partners.
 
 ## Hobbies
 - Coding/Programming 💻

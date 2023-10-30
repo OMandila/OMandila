@@ -61,7 +61,7 @@ I worked in the international development assistance (IDA) department, where I d
 
 ## Volunteering
 Lakisama Foundation (Kenya/the Netherlands), 2019-present, Volunteer/Mentor
-- Lakisama Foundation seeks to reduce poverty by providing children and young adults in lower income ecomomies with access to education and mentorship. Lakisama currently focusses on orphaned children in Nairobi, working with local volunteers.
+- Lakisama Foundation seeks to reduce poverty by providing children and young adults in lower income economies with access to education and mentorship. Lakisama currently focusses on orphaned children in Nairobi, working with local volunteers.
 
 Plan International (Germany), 2022-present, Active Supporter
 - Plan International is an independent development and humanitarian organisation that advances children’s rights and equality for girls. Plan strives for a just world, working together with children, young people, supporters and partners.

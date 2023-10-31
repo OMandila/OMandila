@@ -1,5 +1,5 @@
 # Oliver Mandila, PMP®
-### Problem Solver | Strategic Thinker | Champion for Data and Agile
+### Strategic Thinker | Champion for Data and Agile | Problem Solver
 
 📧 **Email:** olivermandila@gmail.com
 📞 **Phone:** +49 1739376932

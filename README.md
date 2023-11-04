@@ -9,11 +9,16 @@
 
 ## Skills
 Data Analytics📈 Business Intelligence📊 Data Management📋
+
 Data Quality🌟 Data Visualization📊 Data Governance🏢
+
 PowerBI💡 Alteryx📊 Tableau📊 Qlik📊 Qualtrics📋
+
 PMI Project Management Professional (PMP)📊 PRINCE2 Practitioner📋
+
 Public Speaking, Workshop Facilitation, Training Delivery🎙️ Project Monitoring and Evaluation (M&E)📊
-Microsoft Office Suite💻
+
+Microsoft Office Suite💻 Business development📋 Strategy♟️ Leadership & Management👑
 
 ## About me
 Driven by a strong passion for utilizing data and technology to create positive change, my professional journey is shaped by curiosity and a deep belief in the power of innovation to address contemporary environmental, social, and economic challenges. As a Program Manager for Data & Innovations and a former management consultant at PwC, I've had the privilege to work on transformative projects that harness the potential of data and technology in an international and multicultural context. My work such as in developing data platforms to enhance healthcare access in rural Kenya, facilitating civil service reforms in pre-conflict Sudan, and collecting and visualizing data from the world's forests, is driven by a commitment to making a meaningful impact. With a diverse background spanning Software Development, Industrial Engineering, Accounting, Business, and Data Science, and supported by certifications as a PMI Project Management Professional (PMP) and in Business Analytics, I'm equipped to wear multiple hats - as an innovator, a product and project manager, a business leader, and a technology thought leader.

@@ -27,6 +27,9 @@ Driven by a strong passion for utilizing data and technology to create positive 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![Microsoft Dynamics](https://img.shields.io/badge/Microsoft_Dynamics_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Oracle eBusiness Suite](https://img.shields.io/badge/Oracle_eBusiness_Suite-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 ![Software Development](https://img.shields.io/badge/Software_Development-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![PMI Project Management Professional (PMP)](https://img.shields.io/badge/PMI_Project_Management_Professional_(PMP)-007ACC?style=for-the-badge&logo=pmi&logoColor=white)

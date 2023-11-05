@@ -57,13 +57,25 @@ In my leadership role, I orchestrate the lifecycle of strategic data initiatives
 + **Innovation:** Spearheaded the agile creation of the FSC Forest Atlas, a pioneering tool for the visualization of certified forests globally, transformed data collection processes from Excel to mobile deployment using SaaS solutions, conceptualized a bespoke FSC ChatGPT model utilizing Microsoft's Open AI and Cognitive Search, supported the development of FSC Check and subsequent improvement of the risk calculation engine, and supported the transition of a new machine learning model for predictive risk management from external consultants to FSC's data team.
 + **Effective People Management:** Facilitated seamless staff relocations and assimilation, introduced agile methodologies including daily stand-ups, monthly retrospectives and strategic planning sessions, and instituted a culture of regular performance check-ins complemented by targeted coaching and continuous feedback.
 + **Mentorship and Professional Development:** Actively mentored team members, fostering skill enhancement and professional growth, and cultivating a motivated workforce.
-+ **Strategic Communication:** Crafted and executed engaging workshops at the 2022 FSC General Assembly in Bali, championed user training programs, and closely monitored user engagement metrics to inform continuous improvement of data products.
++ **Strategic Communication:** Crafted and executed engaging workshops at the 2022 FSC General Assembly in Bali, Indonesia, championed user training programs, and closely monitored user engagement metrics to inform continuous improvement of data products.
 
 ### Senior Management Consultant (Portfolio & Program Management)
 **PricewaterhouseCoopers (PwC), Nairobi, Kenya; Amsterdam, Netherlands**
 *September 2015 - March 2022*
 
-I worked in the international development assistance (IDA) department, where I designed and delivered projects involving strategy development and implementation, market research, training, and capacity building in developing and post-conflict countries. I successfully did project management, Monitoring & Evaluation, and change management of transformational initiatives for various clients. I contributed to several international development projects commissioned by the World Bank, USAID, UNICEF, KfW, GIZ, and DANIDA in different locations such as Nairobi, Addis Ababa, Kampala, Somaliland, and Khartoum. I also demonstrated leadership skills in business development and business management initiatives.
++ Joined PwC as a graduate trainee.
++ Received year-on-year promotions due to unique analytical skills, 
+problem solving, and strategic project design and delivery.
++ Specialized in data analytics and digital technology, strategy, market 
+research, training & capacity building, and monitoring & evaluation.
++ Worked in emerging economies and post-confict countries.
++ Oversaw high-impact projects for the World Bank, USAID, UNICEF, 
+KfW, GIZ, and DANIDA.
++ Project regions included Kenya, Ethiopia, Uganda, Tanzania, 
+Somaliland, and Sudan.
++ Project tools included Tableau, PowerBI, Qualtrics, Oracle EBS,
+Hyperion, etc.
++ Proven leadership in business development and business management.
 
 ## Education
 - Diploma in Full Stack Software Development (Credit Rated by University of West of Scotland), 2023 - Present

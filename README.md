@@ -69,6 +69,7 @@ problem solving, and strategic project design and delivery.
 + Specialized in data analytics and digital technology, strategy, market 
 research, training & capacity building, and monitoring & evaluation.
 + Worked in emerging economies and post-confict countries.
++ Worked as a Digital Accelerator supporting the PwC Africa Digital Accelerator Programme.
 + Oversaw high-impact projects for the World Bank, USAID, UNICEF, 
 KfW, GIZ, and DANIDA.
 + Project regions included Kenya, Ethiopia, Uganda, Tanzania, 

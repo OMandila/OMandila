@@ -46,40 +46,29 @@ Driven by a strong passion for utilizing data and technology to create positive 
 
 ## Professional Experience
 ### Program Manager (Data & Innovations)
-**Forest Stewardship Council (FSC) International, Bonn, Germany**
-*April 2022 - Present*
-
-In my leadership role, I orchestrate the lifecycle of strategic data initiatives and technological innovations aimed at enhancing FSC's evaluative mechanisms and organizational learning. My responsibilities span from conceptual design to the implementation and iterative improvement of data-driven solutions. Key accomplishments include:
-
-+ **Talent Acquisition:** Responsible for attracting and recruiting a cadre of skilled professionals to bolster the capabilities of the data and innovations team.
-+ **Data and Analytics:** Leveraged design thinking methodologies to deliver dynamic data responses, manifested in products such as FSC Public Search powered by PowerBI, comprehensive internal market intelligence tools, and the expansive FSC GIS Analytics Portal.
-+ **Data Management Excellence:** Developed the FSC Standardized Country Labels integrating ISO 3166 & UN M49 standards, co-engineered the FSC's data classification policy alongside the Legal team, led the development of FSC data strategy, led the Microsoft's data strategy and analytics assessment, developed the concept for implementing a Microsoft intelligent data platform at FSC, and led the FSC data governance initiative employing Microsoft Purview for enhanced data stewardship.
-+ **Innovation:** Spearheaded the agile creation of the FSC Forest Atlas, a pioneering tool for the visualization of certified forests globally, transformed data collection processes from Excel to mobile deployment using SaaS solutions, conceptualized a bespoke FSC ChatGPT model utilizing Microsoft's Open AI and Cognitive Search, supported the development of FSC Check and subsequent improvement of the risk calculation engine, and supported the transition of a new machine learning model for predictive risk management from external consultants to FSC's data team.
-+ **Effective People Management:** Facilitated seamless staff relocations and assimilation, introduced agile methodologies including daily stand-ups, monthly retrospectives and strategic planning sessions, and instituted a culture of regular performance check-ins complemented by targeted coaching and continuous feedback.
-+ **Mentorship and Professional Development:** Actively mentored team members, fostering skill enhancement and professional growth, and cultivating a motivated workforce.
-+ **Strategic Communication:** Crafted and executed engaging workshops at the 2022 FSC General Assembly in Bali, Indonesia, championed user training programs, and closely monitored user engagement metrics to inform continuous improvement of data products.
+**Forest Stewardship Council (FSC) International, Bonn, Germany** (*1 April 2022 - 31 March 2024*)
+- **Program Management and Data Solutions Leadership:** Led business analysis, business case & product concept development, and team collaborations to develop dynamic data products, such as FSC Check, FSC Public Search and other PowerBI analytics, FSC Forest Atlas, and more on Tableau and ArcGIS.
+- **Team Leadership:** Recruited and mentored a high-performing team, fostering innovation, continuous learning, and advancing FSC data capabilities.
+- **Strategic Partnerships:** Secured partnership and funding from Microsoft to conduct a data strategy assessment and design an intelligent data platform for FSC to elevate data management. Collaborated with the ISEAL Alliance to conduct a data maturity assessment for FSC International.
+- **Data Products Development:** Led the agile development of FSC Forest Atlas for global visualization of FSC certified forests; led the development of FSC Check and subsequent refinement of the risk calculation engine, to boost its effectiveness and reliability.
+- **Data Standardization:** Developed FSC Standardized reference data sets (Country Labels, Products & Species Lists, etc.) ensuring global data consistency.
+- **Data Classification:** Collaborated with Legal team to formulate and implement FSC's data classification policy, improving data security and compliance.
+- **Data Governance:** Spearheaded proof of concept for FSC data governance employing Microsoft Purview for enhanced data stewardship.
+- **Modernizing Data Collection:** Led requirements analysis and designed business processes to transition data collection from Excel to mobile platforms using SaaS solutions, improving efficiency and accuracy in the data pipeline.
+- **Support key business processes**, including procurement, contracting, and vendor management, contributing to operational improvements.
+- **Implemented agile software development** and experimentation with emerging technologies, leading to development of an FSC-focused ChatGPT model.
+- **Led strategic communication**, user engagement, and training in Lunch & Learns, Info sessions & webinars for the FSC Network and in the 2022 FSC General Assembly in Bali, Indonesia.
 
 ### Senior Management Consultant (Portfolio & Program Management)
-**PricewaterhouseCoopers (PwC), Nairobi, Kenya; Amsterdam, Netherlands**
-*September 2015 - March 2022*
-
-+ Joined PwC as a graduate trainee.
-+ Received year-on-year promotions due to unique analytical skills, 
-problem solving, and strategic project design and delivery.
-+ Specialized in data analytics and digital technology, strategy, market 
-research, training & capacity building, and monitoring & evaluation.
-+ Worked in emerging economies and post-confict countries.
-+ Worked as a Digital Accelerator supporting the PwC Africa Digital Accelerator Programme.
-+ Oversaw high-impact projects for the World Bank, USAID, UNICEF, 
-KfW, GIZ, and DANIDA.
-+ Project regions included Kenya, Ethiopia, Uganda, Tanzania, 
-Somaliland, and Sudan.
-+ Project tools included Tableau, PowerBI, Qualtrics, Oracle EBS,
-Hyperion, etc.
-+ Proven leadership in business development and business management.
+**PricewaterhouseCoopers (PwC), Nairobi, Kenya; Amsterdam, Netherlands** (*1 September 2015 - 31 March 2022*)
+- **Product Manager (Digital Accelerator) (Mar 2021-Mar 2022):** Led digital solution development using agile methodologies, collaborated with cross-disciplinary teams, managed the Software Development Life Cycle (SDLC), conducted market research, and influenced senior management decisions.
+- **Assistant Manager (July 2019-Feb 2021):** Managed multiple projects, oversaw budgets and timelines, delivered strategic insights, conducted team evaluations, and enhanced internal methodologies.
+- **Senior Associate Consultant (July 2017-June 2019):** Led project teams, developed project plans, managed client relationships, mentored junior consultants, and supported business development initiatives.
+- **Associate Consultant (Apr 2016-June 2017):** Performed detailed analyses, coordinated project delivery, engaged in client interactions, and contributed to internal knowledge sharing.
+- **Graduate Management Trainee (Sept 2015-Mar 2016):** Focused on foundational skills, team collaboration, client project participation, and internal learning initiatives.
 
 ## Education
-- Diploma in Full Stack Software Development (Credit Rated by University of West of Scotland), 2023 - Present
+- Diploma in Full Stack Software Development (Credit Rated by University of West of Scotland), 8/2023 - 7/2024
   - Code Institute, Dublin, Ireland
   - Technologies: HTML5🌐 CSS3🎨 JavaScript🚀 Python🐍;
   - Databases: MongoDB📊 MySQL🐬 Postgres🐘;

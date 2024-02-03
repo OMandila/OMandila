@@ -5,7 +5,7 @@
 📞 **Phone:** +49 1739376932
 🏠 **Address:** Hermannstadter Str. 1, 53119 Bonn, Deutschland
 🌍 **Birthplace:** Kenya
-🗣️ **Languages:** English (Native), Swahili (Native), German (Basic)
+🗣️ **Languages:** English (Native), Swahili (Native), German (Intermediate)
 
 ## About me
 Driven by a strong passion for utilizing data and technology to create positive change, my professional journey is shaped by curiosity and a deep belief in the power of innovation to address contemporary environmental, social, and economic challenges. As a Program Manager for Data & Innovations and a former management consultant at PwC, I've had the privilege to work on transformative projects that harness the potential of data and technology in an international and multicultural context. My work such as in developing data platforms to enhance healthcare access in rural Kenya, facilitating civil service reforms in pre-conflict Sudan, and collecting and visualizing data from the world's forests, is driven by a commitment to making a meaningful impact. With a diverse background spanning Software Development, Industrial Engineering, Accounting, Business, and Data Science, and supported by certifications as a PMI Project Management Professional (PMP) and in Business Analytics, I'm equipped to wear multiple hats - as an innovator, a product and project manager, a business leader, and a technology thought leader.

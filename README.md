@@ -84,6 +84,9 @@ Driven by a strong passion for utilizing data and technology to create positive 
 - Project Management Professional (PMP), 2017 - 2020
   - Project Management Institute (PMI), US
   - As a Project Management Professional (PMP) certified by the Project Management Institute (PMI), I possess a comprehensive understanding of the 10 essential knowledge areas of project management, encompassing: Project Integration, Scope, Schedule, Cost, Quality, source, Communication, Resource, Risk, Procurement, and Stakeholder Management. This globally recognized certification demonstrates my commitment to excellence in project management and my ability to deliver successful projects across diverse industries.
+- Oxford Brookes Global MBA, ON-HOLD
+  - Association of Chartered Certified Accountants (ACCA), UK - Remote
+  - Majored in corporate & business law, performance management, taxation, financial reporting, financial management, audit & assurance, strategic business reporting, strategic business leader as well as ethics & professional skills.
 - Diploma in Accounting and Business, 2016
   - Association of Chartered Certified Accountants (ACCA), UK - Remote
   - Majored in financial and management accounting as well as business law.
